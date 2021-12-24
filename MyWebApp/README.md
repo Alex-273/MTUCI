@@ -1,5 +1,4 @@
 # MyWebApp
-Web application with registration and login capability.</br>
 Written in Python using Flask and PostgreSQL:
 ```python
 import requests
