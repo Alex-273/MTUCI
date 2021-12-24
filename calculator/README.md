@@ -1,4 +1,4 @@
 # calculator
-```
+```python
 import sys
 ```
