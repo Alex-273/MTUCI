@@ -10,7 +10,6 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLineEdit, QHBoxLayout, QVBox
 ## Button labels
 <pre>Clear  — clear the output</br>
 +/- — change the sign of a number</br>
- %  — convert the percentages to a number</br>
  /  — division</br>
 <str> *</str>  — multiplication</br>
 <str> -</str>  — difference</br>
