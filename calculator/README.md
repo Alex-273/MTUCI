@@ -6,7 +6,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLineEdit, QHBoxLayout, QVBox
 ```
 
 ## Application interface
-![image](https://user-images.githubusercontent.com/90320303/146539749-3f57f2b3-296e-4501-b748-d8788466c49f.png)
+![image](https://sun9-58.userapi.com/impg/H0D3uMVDJLNsxX7Mz5-hs3-K8WDaD4sUokr30A/3JKDeRIyOxw.jpg?size=380x257&quality=96&sign=79cf3b769570ef33b2619ac61595ad23&type=album)
 ## Button labels
 <pre> C  — clear the output</br>
 +/- — change the sign of a number</br>
