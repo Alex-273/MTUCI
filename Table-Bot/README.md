@@ -7,8 +7,12 @@ from telebot import types
 import psycopg2
 from datetime import datetime, date
 ```
-## Buttons
-![image](https://user-images.githubusercontent.com/90320303/146547832-43f93228-deb9-4cbf-96ef-240ad26ef2bf.png)
-
-## Help message
-![image](https://user-images.githubusercontent.com/90320303/146547899-d8902ccd-7138-411b-8742-c227839b933a.png)
+A telegram bot on Python that sends the BFI2102 schedule. The program automatically determines the type of the current week using the "datetime" library.
+####
+The bot supports the following commands:
+- "Monday", "Tuesday", "Wednesday", "Thursday", "Friday" - sends the schedule for the specified day.
+- "Schedule for the current week" - sends the schedule for the current week.
+- "Schedule for the next week" - sends the schedule for the next week.
+- /week - specifies the type of the current week.
+- /help - sends a list of bot commands.
+- /mtuci - sends a link to the official MTUCI website.
