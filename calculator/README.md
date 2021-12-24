@@ -1,5 +1,4 @@
-# CALCULATOR
-Calculator application with simple functions.</br>
+# Calculator
 Written in Python using PyQt5:
 ```python
 import sys
