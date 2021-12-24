@@ -13,3 +13,4 @@ from PyQt5.QtWidgets import (QApplication, QWidget,
                              QTableWidgetItem, QPushButton, QMessageBox)
 ```
 ## Interface
+![image](https://sun9-64.userapi.com/impg/CfRtp_N9VezW-6W2EQ4vXjECAKYOxn_tuVwiKQ/CS2EhqLJSXU.jpg?size=804x546&quality=96&sign=edc59fea5ed1fa1e7b1181861d7dcaec&type=album)
