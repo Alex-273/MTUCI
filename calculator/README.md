@@ -1,4 +1,4 @@
 # calculator
 ```
-code block
+import sys
 ```
