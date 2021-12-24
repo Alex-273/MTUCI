@@ -12,3 +12,4 @@ from PyQt5.QtWidgets import (QApplication, QWidget,
                              QTableWidget, QGroupBox,
                              QTableWidgetItem, QPushButton, QMessageBox)
 ```
+## Interface
