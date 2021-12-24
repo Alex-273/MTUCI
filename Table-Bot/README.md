@@ -1,5 +1,4 @@
 # TimetableBot
-Telegram bot, with the help of which you can find out the schedule of the group BFI2102 MTUСI.</br>
 
 Written in Python using PostgreSQL and telebot:
 ```python
